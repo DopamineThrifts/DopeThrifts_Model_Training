@@ -7,9 +7,9 @@ The purpose of training this model is to generate high-quality, consistent, and 
 
 ### **1. Consistency with Brand Voice**
 
-The model will generate titles and descriptions that align with Dope Thrifts' identity as a **Neurodivergent and Minority Woman Owned** brand. Dope Thrifts curates secondhand clothing and accessories with an emphasis on **creativity** and **affordability**. 
+The model will generate titles and descriptions that align with Dope Thrifts' identity as a **Neurodivergent and Minority Woman Owned** brand. Dope Thrifts curates secondhand clothing and accessories with an emphasis on **creativity** and **affordability**.
 
-The model must generate content that accurately reflects the **unique features of each product**, while staying true to the brand’s overall identity. All outputs should reflect the brand’s tone: trendy, approachable, and reflective of Dope Thrifts' tagline: *Experience the Dopamine Rush ⚡️ Discover Unique Threads*. 
+The model must generate content that accurately reflects the **unique features of each product**, while staying true to the brand’s overall identity. All outputs should reflect the brand’s tone: trendy, approachable, and reflective of Dope Thrifts' tagline: *Experience the Dopamine Rush ⚡️ Discover Unique Threads*.
 
 Descriptions should feel personal and creative, avoiding overly formal or rigid language.
 
@@ -23,9 +23,9 @@ Descriptions should feel personal and creative, avoiding overly formal or rigid 
 - As the model matures, we will expand its capabilities to include other non-clothing categories, such as **housewares**, **toys**, and **decorative items**.
 - Consistency in formatting and structure across these categories is key, ensuring the model adapts to new product types with minimal adjustments.
 
-### **4. Adaptability and Flexibility**
+### **4. Dynamic Content Generation and Flexibility**
 - Descriptions must be creative, reflecting the specific features and uniqueness of each product. The model will avoid repetitive, formulaic language.
-- We aim for the model to effectively apply picklists, templates, and feedback to enhance flexibility and maintain creativity.
+- The model will prioritize **dynamic content generation**, applying picklists, templates, and feedback to enhance flexibility and maintain creativity in outputs.
 - Over time, the model will learn to personalize outputs based on evolving trends, ensuring it stays current with fashion-driven hashtags and descriptions.
 
 ### **5. Competitive Pricing**
@@ -41,7 +41,7 @@ Descriptions should feel personal and creative, avoiding overly formal or rigid 
 - **Metrics**: Titles and descriptions that rank for relevant keywords and adhere to SEO best practices.
 - **Goal**: 90% of generated titles and descriptions should meet or exceed SEO standards, using relevant keywords in the appropriate format.
 
-### **2. Increased Creativity**
+### **2. Increased Creativity in Descriptions**
 - **Metrics**: A decrease in repetitive language and banned phrases across product descriptions, leading to more unique outputs.
 - **Goal**: Achieve a less than 10% use of formulaic language or banned phrases in generated descriptions after initial training.
 
@@ -49,7 +49,7 @@ Descriptions should feel personal and creative, avoiding overly formal or rigid 
 - **Metrics**: Percentage of listings that comply with title structures, short descriptions, fixed description templates, hashtag guidelines, and include necessary product attributes from picklists.
 - **Goal**: Achieve 95% compliance with these structures, templates, picklists, and hashtag guidelines across all categories by the end of the training cycle.
 
-### **4. Refinement and Feedback Integration**
+### **4. Continuous Improvement Cycle and Feedback Integration**
 - **Metrics**: A reduction in recurring errors (e.g., missing attributes, poor pricing suggestions) following feedback loops and refinement sessions.
 - **Goal**: Achieve incremental improvements after each feedback session, with 80% of feedback incorporated into model outputs within one feedback cycle.
 
@@ -58,7 +58,7 @@ Descriptions should feel personal and creative, avoiding overly formal or rigid 
 ## **Phased Training Plan**
 
 ### **Phase 1: Initial Training**
-- **Focus**: Clothing and accessories categories, particularly titles, descriptions, templates and hashtags.
+- **Focus**: Clothing and accessories categories, particularly titles, descriptions, templates, and hashtags.
 - **Goals**: Achieve high accuracy in generating consistent, SEO-optimized titles and descriptions using predefined templates.
 
 ### **Phase 2: Expansion to Non-Clothing Categories**
@@ -71,13 +71,13 @@ Descriptions should feel personal and creative, avoiding overly formal or rigid 
 
 ---
 
-## **Feedback and Refinement Process**
+## **Feedback and Continuous Improvement Process**
 
 ### **Continuous Feedback Loops**
 - Feedback will be collected after each batch of outputs to ensure accuracy, creativity, and alignment with brand identity.
 - Specific areas for refinement include avoiding banned phrases, using up-to-date hashtags, and generating accurate pricing suggestions.
 
-### **Refinement Goals**
+### **Continuous Improvement Cycle**
 - Each feedback loop will introduce specific adjustments, with the goal of reducing recurring errors and increasing compliance with brand standards.
 - **Goal**: Implement feedback within one training cycle, ensuring continuous improvement in future outputs.
 
@@ -86,5 +86,3 @@ Descriptions should feel personal and creative, avoiding overly formal or rigid 
 ## **Long-Term Adaptation**
 - **Goal**: Regularly update the model to stay aligned with emerging trends (e.g., new aesthetics, fashion movements).
 - **Adaptation Plan**: Introduce new picklists and templates as necessary to reflect current consumer demand and platform trends.
-
-
