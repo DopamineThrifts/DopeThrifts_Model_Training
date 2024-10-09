@@ -9,7 +9,7 @@ This model will use predefined templates, logic tables, and picklists to ensure 
   
 - **Short descriptions**: Short descriptions will be engaging and concise, summarizing the product's key features and unique selling points within 2-3 sentences.
 
-- **Fixed template**: The combined total character count for the **short description** and **template** should not exceed **500 characters** to ensure brevity and clarity across all listings.
+- **Fixed templates**: The combined total character count for the **short description** and **template** should not exceed **500 characters** to ensure brevity and clarity across all listings.
 
 - **Hashtags**: Each product listing will include **5-8 hashtags**, focusing on niche trends and aesthetic-driven keywords like **#Balletcore**, **#Gorpcore**, and **#SustainableFashion** to increase discoverability.
 
@@ -18,18 +18,26 @@ This model will use predefined templates, logic tables, and picklists to ensure 
 ---
 
 ## **Core Objectives**
+
 1. **Consistency with Brand Voice**:
     - Dope Thrifts is a **Neurodivergent and Minority Woman Owned** brand that curates secondhand clothing and accessories with an emphasis on creativity and affordability. The model must generate content that accurately reflects the **unique features of each product**, while staying true to the brand’s overall identity.
-    - The model will consistently reflect Dopamine Thrifts' tagline: *Experience the Dopamine Rush ⚡️ Discover Unique Threads*.
+    - The model will consistently reflect Dope Thrifts' tagline: *Experience the Dopamine Rush ⚡️ Discover Unique Threads*.
     - The tone should be modern, trendy, and conversational, avoiding excessive formal language and unnecessary gendered or binary language.
 
 2. **SEO Optimization**:
     - Titles and descriptions must be optimized for search engines by incorporating core SEO keywords related to product categories, materials, and trending styles.
     - Hashtags should focus on driving discoverability and be relevant to both broad and niche audiences, particularly in secondhand and sustainable fashion spaces.
 
-3. **Creativity and Flexibility**:
-    - Descriptions should avoid repetitive, formulaic language, including **predictable selling structures** like the "feature-benefit formula" or overused phrases such as "perfect for any occasion" or "stand out from the crowd." 
-    - The model will prioritize storytelling and use descriptive, engaging language to appeal to buyers, highlighting key features in a **creative yet informative** way. The goal is to ensure each product description feels unique and tailored, avoiding cliché structures that can feel impersonal or generic.
+3. **Creativity and Flexibility (for Descriptions, Hashtags, and Pricing)**:
+    - **Short Descriptions**: This section allows for creativity and flexibility. Descriptions should avoid repetitive, formulaic language, including **predictable selling structures** like the "feature-benefit formula" or overused phrases such as "perfect for any occasion" or "stand out from the crowd." 
+    - The model will prioritize storytelling and use descriptive, engaging language to appeal to buyers, highlighting key features in a **creative yet informative** way. Each product description should feel unique and tailored, avoiding cliché structures that can feel impersonal or generic.
+    - **Hashtags**: While there is a defined range of 5-8 hashtags per listing, the choice of hashtags allows flexibility based on trending styles and product features. The model should select creative, relevant hashtags to maximize discoverability.
+    - **Pricing**: Price suggestions should reflect flexibility, accounting for factors like condition, brand, and market trends. The model should balance **competitive pricing** with the flexibility to adjust based on product-specific details and market shifts.
+
+4. **Consistency and Streamlined Output (for Titles and Fixed Templates)**:
+    - **Titles and Fixed Templates**: These sections require rigid adherence to predefined structures. The model must consistently follow the **title structures** and **fixed templates** to ensure uniformity across listings.
+        - **Title Structure**: Follows a rigid format for SEO optimization and clarity, ensuring that each listing includes [Notable Terms], [Gender], [Brand], [Color], [Product Name], [Attributes], [Product Type], and [Size].
+        - **Fixed Templates**: Ensure key product information is consistently included (e.g., material, brand, size) and that the total character count for short descriptions and templates does not exceed 500 characters.
 
 ---
 
@@ -51,7 +59,7 @@ As the model is trained on the basics, we will gradually expand to include non-c
 ## **Key Guidelines**
 
 ### **Title Generation:**
-Titles will follow a predefined template that ensures consistency and SEO compliance. The full structure includes elements such as:
+Titles will follow a predefined structure that ensures consistency and SEO compliance. The full structure includes elements such as:
 - **[Notable Terms]**
 - **[Gender]**
 - **[Brand]**
@@ -60,9 +68,10 @@ Titles will follow a predefined template that ensures consistency and SEO compli
 - **[Attributes]**
 - **[Product Type]**
 - **[Size]**
+- **[Style #]**
 
 **Example**:  
-*“Vintage Women’s Levi’s Blue High-Rise Straight Jeans Size 28.”*
+*“Vintage Women’s Levi’s Blue High-Rise Straight Jeans Size 28 - A6895”*
 
 This ensures that key elements for SEO are included in a clear and optimized format.
 
